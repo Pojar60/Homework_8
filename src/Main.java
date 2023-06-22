@@ -11,7 +11,7 @@ import java.nio.file.Paths;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        String resourcesPath = "C:/Users/1poja/IdeaProjects/Homework_8/resources";
+        String resourcesPath = "../Homework_8/resources";
         String [] folderLists = {"folder1","folder2", "folder3", "folder4", "folder5", "folder6","folder7", "folder8"};
 
 
